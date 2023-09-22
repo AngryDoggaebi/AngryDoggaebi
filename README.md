@@ -8,6 +8,10 @@
 - I’m currently learning Next.js.
 <br />
 
+-------
+
+<br />
+
 <h3> I code with </h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
