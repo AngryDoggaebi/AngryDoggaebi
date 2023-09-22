@@ -33,6 +33,7 @@
         <p>2023-08-14 ~ 2023-09-17</p>
         <p><a href="https://bookbuddy-cook.netlify.app/">Deploy Link</a></p>
         <p><a href="https://github.com/AngryDoggaebi/bookbuddy">Github Link</a></p>
+        <p><a href="https://itgoblin.tistory.com/category/Project/Book%20Buddy_Function">Blog Link</a></p>
       </th>
     </tr>
     <tr>
