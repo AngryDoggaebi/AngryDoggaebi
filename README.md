@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello,%World!&fontSize=20&color=auto&fontAlign=90&fontAlignY=25)
 
-<br />
 
 <h3> About Me </h3>
 
