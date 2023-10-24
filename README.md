@@ -32,13 +32,13 @@
       <th>
         <p><b>미정</b> solo project - Inventory management and handover Service</p>
         <p>2023-10-17 ~ 2023-10-25</p>
-        <p><a href="">Deploy Link</a></p>
+<!--         <p><a href="">Deploy Link</a></p> -->
         <p><a href="https://github.com/AngryDoggaebi/Inventory-Management">Github Link</a></p>
-        <p><a href="">Blog Link</a></p>
+<!--         <p><a href="">Blog Link</a></p> -->
       </th>
     </tr>
     <tr>
-      <th width='50%'><img src='https://github.com/AngryDoggaebi/AngryDoggaebi/assets/120698922/580b416f-623f-4b13-a991-14f511c00f50' width='30%'></th>
+      <th width='50%'><img src='https://github.com/AngryDoggaebi/AngryDoggaebi/assets/120698922/3b361cbe-56cb-48e8-b647-6938b428c12f' width='50%'></th>
       <th>
         <p><b>Book Buddy</b> team project - Book Store Service</p>
         <p>2023-08-14 ~ 2023-09-17</p>
