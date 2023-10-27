@@ -30,27 +30,25 @@
     <tr>
       <th width='50%'><img src='https://github.com/AngryDoggaebi/AngryDoggaebi/assets/120698922/400984a1-5f9a-460c-9647-7b0494f36ac5' width='50%'></th>
       <th>
-        <p><b>미정</b> solo project - Inventory management and handover Service</p>
-        <p>2023-10-17 ~ 2023-10-25</p>
-<!--         <p><a href="">Deploy Link</a></p> -->
+        <p>solo project - Inventory management and handover Page</p>
+        <p>2023-10-17 ~ 2023-10-27</p>
+        <p><a href="http://inventory-management.ap-northeast-2.elasticbeanstalk.com/">Deploy Link</a></p>
         <p><a href="https://github.com/AngryDoggaebi/Inventory-Management">Github Link</a></p>
-<!--         <p><a href="">Blog Link</a></p> -->
       </th>
     </tr>
     <tr>
       <th width='50%'><img src='https://github.com/AngryDoggaebi/AngryDoggaebi/assets/120698922/3b361cbe-56cb-48e8-b647-6938b428c12f' width='50%'></th>
       <th>
-        <p><b>Book Buddy</b> team project - Book Store Service</p>
+        <p>team project - Book Store Service</p>
         <p>2023-08-14 ~ 2023-09-17</p>
         <p><a href="https://bookbuddy-cook.netlify.app/">Deploy Link</a></p>
         <p><a href="https://github.com/AngryDoggaebi/bookbuddy">Github Link</a></p>
-        <p><a href="https://itgoblin.tistory.com/category/Project/Book%20Buddy_Function">Blog Link</a></p>
       </th>
     </tr>
     <tr>
       <th width='50%'><img src='https://github.com/AngryDoggaebi/AngryDoggaebi/assets/120698922/72db8cf4-e102-413d-a7fd-63daaf80cbe1' width='20%'/></th>
       <th>
-        <p><b>EZ to Play</b> team project - Performance reservations and registration Service</p>
+        <p>team project - Performance reservations and registration Service</p>
         <p>2023-06-28 ~ 2023-07-24</p>
         <p><a href="https://ez-to-play.netlify.app/">Deploy Link</a></p>
         <p><a href="https://github.com/AngryDoggaebi/EZtoPlay">Github Link</a></p>
