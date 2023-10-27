@@ -31,7 +31,7 @@
       <th width='50%'><img src='https://github.com/AngryDoggaebi/AngryDoggaebi/assets/120698922/400984a1-5f9a-460c-9647-7b0494f36ac5' width='50%'></th>
       <th>
         <p>solo project - Inventory management and handover Page</p>
-        <p>2023-10-17 ~ 2023-10-27</p>
+        <p>2023-10-15 ~ 2023-10-27</p>
         <p><a href="http://inventory-management.ap-northeast-2.elasticbeanstalk.com/">Deploy Link</a></p>
         <p><a href="https://github.com/AngryDoggaebi/Inventory-Management">Github Link</a></p>
       </th>
