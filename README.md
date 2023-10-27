@@ -32,7 +32,7 @@
       <th>
         <p>solo project - Inventory management and handover Page</p>
         <p>2023-10-15 ~ 2023-10-27</p>
-        <p><a href="http://inventory-management.ap-northeast-2.elasticbeanstalk.com/">Deploy Link</a></p>
+        <p><a href="http://inventory-management2.ap-northeast-2.elasticbeanstalk.com/">Deploy Link</a></p>
         <p><a href="https://github.com/AngryDoggaebi/Inventory-Management">Github Link</a></p>
       </th>
     </tr>
